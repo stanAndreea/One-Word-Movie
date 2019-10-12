@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">One Word Movie</string>
+    <string name="contest_image">Poster</string>
+    <string name="name_hint">Avenger</string>
+    <string name="rating_hint">4.1</string>
+
+    <string name="not_found">Nothings found!</string>
+    <string name="overview_string">Story line</string>
+    <string name="rating_string">Ratings</string>
+    <string name="button_name">Search</string>
+    <string name="text_overview">After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.</string>
+</resources>
