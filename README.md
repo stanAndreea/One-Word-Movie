@@ -7,11 +7,11 @@
 ### **First Activity (*MainActivity*)**
 The user must enter one word as the name of the movie he wants to search for
 
-This **activity** sends the requested movie title to the *Secound Activity*
+This **activity** sends the requested movie title to the *Second Activity*
 
 ![**Main Activity**](https://user-images.githubusercontent.com/35422422/66703768-a126ff00-ed1e-11e9-909c-dc36c8145478.png)
 
-### **Secound Activity (*MovieActivity*)**
+### **Second Activity (*MovieActivity*)**
 In this activity, the data from *MainActivity* will send a request to **The Movie DataBase**, in order to receive movies that the user wants to review
 
 To deserialize the data received from the API MovieDb, I used **Volley** library
