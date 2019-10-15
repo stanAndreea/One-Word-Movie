@@ -6,6 +6,7 @@
 
 ### **First Activity (*MainActivity*)**
 The user must enter one word as the name of the movie he wants to search for
+
 This **activity** sends the requested movie title to the *Secound Activity*
 
 ![**Main Activity**](https://user-images.githubusercontent.com/35422422/66703768-a126ff00-ed1e-11e9-909c-dc36c8145478.png)
