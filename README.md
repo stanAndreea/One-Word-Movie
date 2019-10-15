@@ -1,6 +1,6 @@
 # **One Word Movie**
 
-## *One Word Movie created using the API from TheMovieDB, Picasso and Volley librarys*
+## *One Word Movie created using the API from TheMovieDB, Picasso and Volley libraries*
 
 **App contains 3 activities:**
 
